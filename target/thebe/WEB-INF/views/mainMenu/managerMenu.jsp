@@ -1,0 +1,1 @@
+<h2>MANAGER PAGE</h2>
